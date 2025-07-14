@@ -1,0 +1,41 @@
+[INFO] - {14-07-2025 13:10:35} [main] [Listener.TestNgListener] - Test started
+[INFO] - {14-07-2025 13:10:35} [main] [Listener.TestNgListener] - Delete Previous Screenshots
+[INFO] - {14-07-2025 13:10:35} [main] [Listener.TestNgListener] - Delete Previous Logs
+[INFO] - {14-07-2025 13:10:35} [main] [Listener.TestNgListener] - Delete Previous Allure Results
+[INFO] - {14-07-2025 13:10:35} [TestNG-tests-1] [Listener.TestNgListener] - Test Suite LoginTest1 started
+[INFO] - {14-07-2025 13:10:35} [TestNG-tests-2] [Listener.TestNgListener] - Test Suite LoginTest2 started
+[INFO] - {14-07-2025 13:10:35} [TestNG-tests-1] [Utils.DataUtil.ReadJsonFile] - json file converted to string
+[INFO] - {14-07-2025 13:10:35} [TestNG-tests-2] [Utils.DataUtil.ReadJsonFile] - json file converted to string
+[INFO] - {14-07-2025 13:10:39} [TestNG-tests-1] [TestCases.TC01_LoginTC] - Browser is opened : chrome
+[INFO] - {14-07-2025 13:10:39} [TestNG-tests-2] [TestCases.TC01_LoginTC] - Browser is opened : edge
+[INFO] - {14-07-2025 13:10:39} [TestNG-tests-1] [Pages.P01_LoginPage] - Navigated to login page: https://www.saucedemo.com/
+[INFO] - {14-07-2025 13:10:39} [TestNG-tests-1] [TestCases.TC01_LoginTC] - Navigated to login page: https://www.saucedemo.com/
+[INFO] - {14-07-2025 13:10:39} [TestNG-tests-2] [Pages.P01_LoginPage] - Navigated to login page: https://www.saucedemo.com/
+[INFO] - {14-07-2025 13:10:39} [TestNG-tests-2] [TestCases.TC01_LoginTC] - Navigated to login page: https://www.saucedemo.com/
+[INFO] - {14-07-2025 13:10:40} [TestNG-tests-1] [Listener.TestNgListener] - Test Case loginTC started
+[INFO] - {14-07-2025 13:10:40} [TestNG-tests-2] [Listener.TestNgListener] - Test Case loginTC started
+[INFO] - {14-07-2025 13:10:41} [TestNG-tests-1] [Utils.DataUtil.ReadJsonFile] - json key is standard_user
+[INFO] - {14-07-2025 13:10:41} [TestNG-tests-2] [Utils.DataUtil.ReadJsonFile] - json key is standard_user
+[INFO] - {14-07-2025 13:10:41} [TestNG-tests-1] [Pages.P01_LoginPage] - Entered username: standard_user
+[INFO] - {14-07-2025 13:10:41} [TestNG-tests-1] [Utils.DataUtil.ReadJsonFile] - json key is secret_sauce
+[INFO] - {14-07-2025 13:10:41} [TestNG-tests-1] [Pages.P01_LoginPage] - Entered password: secret_sauce
+[INFO] - {14-07-2025 13:10:41} [TestNG-tests-2] [Pages.P01_LoginPage] - Entered username: standard_user
+[INFO] - {14-07-2025 13:10:41} [TestNG-tests-2] [Utils.DataUtil.ReadJsonFile] - json key is secret_sauce
+[INFO] - {14-07-2025 13:10:42} [TestNG-tests-1] [Pages.P01_LoginPage] - Clicked login button
+[INFO] - {14-07-2025 13:10:42} [TestNG-tests-1] [TestCases.TC01_LoginTC] - User logged in successfully
+[INFO] - {14-07-2025 13:10:42} [TestNG-tests-2] [Pages.P01_LoginPage] - Entered password: secret_sauce
+[INFO] - {14-07-2025 13:10:42} [TestNG-tests-2] [Pages.P01_LoginPage] - Clicked login button
+[INFO] - {14-07-2025 13:10:42} [TestNG-tests-2] [TestCases.TC01_LoginTC] - User logged in successfully
+[INFO] - {14-07-2025 13:10:42} [TestNG-tests-1] [Utils.AllureUil.AllureClass] - Screenshot added to allure report
+[INFO] - {14-07-2025 13:10:42} [TestNG-tests-1] [Utils.ClassesUtil.UtilClass] - Screenshot taken
+[INFO] - {14-07-2025 13:10:43} [TestNG-tests-1] [Utils.AllureUil.AllureClass] - Logs added to allure report
+[INFO] - {14-07-2025 13:10:43} [TestNG-tests-1] [Listener.TestNgListener] - Test Case loginTC passed
+[INFO] - {14-07-2025 13:10:43} [TestNG-tests-2] [Utils.AllureUil.AllureClass] - Screenshot added to allure report
+[INFO] - {14-07-2025 13:10:43} [TestNG-tests-2] [Utils.ClassesUtil.UtilClass] - Screenshot taken
+[INFO] - {14-07-2025 13:10:43} [TestNG-tests-2] [Utils.AllureUil.AllureClass] - Logs added to allure report
+[INFO] - {14-07-2025 13:10:43} [TestNG-tests-2] [Listener.TestNgListener] - Test Case loginTC passed
+[INFO] - {14-07-2025 13:10:44} [TestNG-tests-1] [Listener.TestNgListener] - Test Suite LoginTest1 finished
+[INFO] - {14-07-2025 13:10:44} [TestNG-tests-2] [Listener.TestNgListener] - Test Suite LoginTest2 finished
+[INFO] - {14-07-2025 13:10:44} [main] [Listener.TestNgListener] - Test finished
+[INFO] - {14-07-2025 13:10:48} [main] [Utils.AllureUil.AllureClass] - Generating allure report on windows
+[INFO] - {14-07-2025 13:10:49} [main] [Utils.AllureUil.AllureClass] - Opening allure report on windows
